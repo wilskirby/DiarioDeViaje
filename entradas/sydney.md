@@ -11,4 +11,6 @@ Aprende sus costumbres
 # Foto
 https://Sydney.com
 
+# Informacion
+Ciudad de alto prestigio debido a su gran monumento 
 ```
